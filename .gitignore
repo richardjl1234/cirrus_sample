@@ -1,0 +1,6 @@
+env.list
+.secrets.baseline
+static/cache
+
+
+

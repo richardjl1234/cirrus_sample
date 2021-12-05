@@ -1,0 +1,11 @@
+Flask==0.10.1
+xlsxwriter
+addict
+xlrd
+pandas
+numpy
+openpyxl
+boxsdk
+requests
+cloudant
+
